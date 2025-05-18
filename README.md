@@ -68,7 +68,7 @@ To develop a classification model that predicts the **type of cyberbullying** fr
 
 If you have any questions or feedback, feel free to reach out:
 
-- **Email**: kosurukanakavalli@gmail.com
+- Email: kosurukanakavalli@gmail.com
 
 
 
