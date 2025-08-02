@@ -1,7 +1,7 @@
-# Cyberbullying-
-# 🚫 Cyberbullying Tweet Classification
+# 🚫 cyberbully-detector-nlp
 
-This project focuses on building a machine learning model to classify tweets based on the type of cyberbullying they contain. It aims to help in identifying and categorizing harmful online behavior to support moderation efforts and create safer digital spaces.
+A machine learning project that detects and classifies cyberbullying in tweets using Natural Language Processing (NLP) techniques.
+
 
 ## 📌 Project Objective
 
